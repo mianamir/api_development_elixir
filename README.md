@@ -1,4 +1,4 @@
-# ApiProj
+# Api Development using Elixir/Phoenix
 
 To start your Phoenix server:
 
